@@ -120,7 +120,6 @@ int main()
     return 0;
 }
 
-
 /*
-Emplace vs Push: Use emplace_back if you're constructing objects in place. For primitive types like int, push_back is fine, but for more complex objects (like pairs), emplace_back is preferred for performance reasons. 
+Emplace vs Push: Use emplace_back if you're constructing objects in place. For primitive types like int, push_back is fine, but for more complex objects (like pairs), emplace_back is preferred for performance reasons.
 */
