@@ -117,6 +117,15 @@ int main()
     }
     cout << endl;
 
+    // Erasing elements from vector 'd' [1, 2, 99, 3, 4]
+    cout << "Erasing elements at index 1 to 2 from vector 'd': ";
+    d.erase(d.begin() + 1, d.begin() + 3); // Erases elements at index 1 and 2 (2 and 99)
+    for (const auto &element : d)
+    {
+        cout << element << " "; // Expected output: 1 3 4
+    }
+    cout << endl;
+
     return 0;
 }
 
