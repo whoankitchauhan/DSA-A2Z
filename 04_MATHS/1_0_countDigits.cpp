@@ -33,7 +33,7 @@ int main()
     int number;
 
     cout << "Enter a number: ";
-    cin >> number;
+    cin >> number;  // Ek Dikkat hai ki agar number zero se start ho rha hai too ye isko count nhi kar rha !! iska logic lagana padega 
 
     cout << "Number of digits in " << number << " is: " << countDigits(number) << endl;
 
