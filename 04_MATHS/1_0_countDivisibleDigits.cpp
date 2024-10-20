@@ -25,7 +25,11 @@ int countDivisibleDigits(int n)
 
 int main()
 {
-    int num = 123;
+
+    cout << "Enter the Number : ";
+    int num;
+    cin >> num;
+
     cout << "Number of divisible digits in " << num << ": " << countDivisibleDigits(num) << endl;
     return 0;
 }
