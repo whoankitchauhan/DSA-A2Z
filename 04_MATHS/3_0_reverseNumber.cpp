@@ -30,3 +30,9 @@ int main()
     cout << "Reverse: " << reverseNumber(num) << endl;
     return 0;
 }
+
+/*
+In two Line
+            r = r * 10 + x % 10;
+            x = x / 10;
+*/
