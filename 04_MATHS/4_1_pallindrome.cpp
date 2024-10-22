@@ -7,6 +7,10 @@ bool isPalindrome(int n)
     if (n < 0)
         return false;
 
+    // Numbers that end with 0 and are not 0 are not palindromes
+    if (n != 0 && n % 10 == 0)
+        return false;
+
     int reversedHalf = 0;
 
     // Reverse half of the number
