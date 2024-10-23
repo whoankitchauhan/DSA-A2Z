@@ -22,6 +22,8 @@ bool isPalindrome(int n)
     }
 
     // Check if the original first half is equal to the reversed second half
+    // For even digits: n == reversedHalf
+    // For odd digits: n == reversedHalf / 10 (we drop the middle digit)
     return (n == reversedHalf || n == reversedHalf / 10);
 }
 
