@@ -1,6 +1,6 @@
 # DSA-A2Z: Your Ultimate Guide to Mastering Data Structures & Algorithms
 
-Welcome to **DSA-A2Z**, a comprehensive repository aimed at mastering Data Structures and Algorithms (DSA). This project is part of my ongoing journey through the **"DSA A 2 Z"** series by **Striver**, presented on the popular **Take You Forward** YouTube channel. It serves as a resource for anyone looking to enhance their problem-solving skills, ace technical interviews, or deepen their understanding of DSA concepts.
+Welcome to **DSA-A2Z**, a comprehensive repository aimed at mastering Data Structures and Algorithms (DSA). This project is part of my ongoing journey through the **"DSA A2Z"** series by **Striver**, presented on the popular **Take You Forward** YouTube channel. It serves as a resource for anyone looking to enhance their problem-solving skills, ace technical interviews, or deepen their understanding of DSA concepts.
 
 ## What You'll Find:
 - 🧠 **Well-Structured Code**: Solutions are crafted for clarity, efficiency, and readability, making them accessible to learners at all levels.
