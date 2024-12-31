@@ -32,6 +32,11 @@ int main()
         cout << "Number: " << it->first << ", Count: " << it->second << endl;
     }
 
+    // for ( auto it : frequencyMap)
+    // {
+    //     cout<< "Number: "  << it.first << " -> "<< ", Count: " << it.second << endl;
+    // }
+
     // Query the frequency of numbers
     int queryCount;
     cout << "Enter the number of queries: ";
