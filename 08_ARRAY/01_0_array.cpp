@@ -4,8 +4,16 @@
 
 using namespace std;
 
+// Global array declaration: Can hold up to 10^7 elements
+// int arr[10000000];
+
 int main()
 {
+
+    // Global array declaration: Can hold up to 10^6 elements
+    // int n = 1000000; // Set the size of the array
+    // int arr1[n]; // Local array declaration with 'n' elements
+
     // Declaration and initialization of an array
     int myArray[5] = {1, 2, 3, 4, 5};
 
