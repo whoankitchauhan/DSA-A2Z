@@ -22,7 +22,6 @@ bool isPowerOfTwoLoop(int n)
     return true; // If we reach 1, n is a power of two
 }
 
-// Main function to test the code
 int main()
 {
     int n;
