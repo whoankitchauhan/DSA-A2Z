@@ -19,7 +19,6 @@ int removeDuplicatesWithTwoPointers(vector<int> &nums)
             nums[uniqueIndex] = nums[i]; // Update nums with the new unique element
         }
     }
-
     return uniqueIndex + 1; // Number of unique elements
 }
 
