@@ -1,11 +1,11 @@
 #include <iostream>
 #include <vector>
-#include <map> 
+#include <unordered_map> 
 
 using namespace std;
 
 int lenOfLongestSubarr_optimal(vector<int>& arr, int k) {
-    map<int, int> preSumMap;  // This map stores the first occurrence of each prefix sum
+    unordered_map<int, int> preSumMap;  // This map stores the first occurrence of each prefix sum
     int maxLength = 0;
     int sum = 0;
 
