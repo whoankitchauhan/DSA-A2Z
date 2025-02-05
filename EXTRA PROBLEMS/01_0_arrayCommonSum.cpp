@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 int commonSum(int n1, int n2, vector<int> &arr1, vector<int> &arr2)
 {
     const int MOD = 1e9 + 7; // Define modulo value
