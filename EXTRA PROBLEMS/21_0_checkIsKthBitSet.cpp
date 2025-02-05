@@ -13,7 +13,7 @@ bool checkKthBit(int n, int k)
 
 // Driver code to test the function
 int main()
-{
+{ 
     int n, k;
 
     // Taking input from the user
