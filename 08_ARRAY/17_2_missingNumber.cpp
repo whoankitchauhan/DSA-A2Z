@@ -5,19 +5,16 @@ using namespace std;
 // ✅ Approach 3: Optimized XOR in a single loop
 int missingNumber(vector<int> &nums)
 {
-    int n = nums.size();
-    int xorResult = 0;
+    int xorFull = 0;
+    int xorArray = 0;
 
-    // XOR all indices and elements in one loop
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < nums.size(); i++)
     {
-        xorResult ^= i ^ nums[i];
+        xorFull ^= (i + 1);  // XOR of numbers from 1 to n
+        xorArray ^= nums[i]; // XOR of given elements
     }
 
-    // XOR with n (last number)
-    xorResult ^= n;
-
-    return xorResult;
+    return xorFull ^ xorArray; // XOR gives the missing number
 }
 
 int main()
