@@ -3,7 +3,7 @@
 #include <climits>
 using namespace std;
 
-// Brute-force
+// Prefix Sum
 int maxSubArray(vector<int> &nums)
 {
     int n = nums.size();
