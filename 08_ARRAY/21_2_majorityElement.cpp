@@ -15,7 +15,18 @@ int majorityElement(vector<int> &nums)
         }
         vote += (candidate == num) ? 1 : -1;
     }
+
     return candidate;
+
+    // For Verify 
+    // int count = 0;
+    // for (int num : nums)
+    //     if (num == candidate)
+    //         count++;
+    // if (count > nums.size() / 2)
+    //     return candidate;
+    // else
+    //     return -1;
 }
 
 int main()
