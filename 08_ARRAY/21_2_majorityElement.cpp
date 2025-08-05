@@ -2,18 +2,18 @@
 #include <vector>
 #include <unordered_map>
 using namespace std;
-
+// The majority element is the element that appears more than ⌊n / 2⌋ times in the array.
 int majorityElement(vector<int> &nums)
 {
     // Boyer-Moore Voting Algorithm
-    int count = 0, candidate = 0;
+    int vote = 0, candidate = 0;
     for (int num : nums)
     {
-        if (count == 0)
+        if (vote == 0)
         {
             candidate = num;
         }
-        count += (candidate == num) ? 1 : -1;
+        vote += (candidate == num) ? 1 : -1;
     }
     return candidate;
 }
