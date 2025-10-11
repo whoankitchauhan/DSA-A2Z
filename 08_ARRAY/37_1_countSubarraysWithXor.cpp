@@ -1,46 +1,39 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Function to count subarrays with XOR = k
-long countSubarraysWithXor(vector<int> &arr, int k)
+// Function to count subarrays whose XOR equals targetXor
+long countSubarraysWithXor(const vector<int> &arr, int targetXor)
 {
-    unordered_map<int, int> freq; // frequency of prefixXor values
-    int prefixXor = 0;
-    long count = 0;
-    int n = arr.size();
+    int prefixXor = 0;                     // Tracks the XOR of elements from the start up to the current index
+    long subarrayCount = 0;                // Counter for subarrays with XOR == targetXor
+    unordered_map<int, int> prefixXorFreq; // Map to store frequencies of prefix XORs encountered
 
-    for (int i = 0; i < n; ++i)
+    prefixXorFreq[prefixXor] = 1; // Initialize with XOR 0 (empty subarray)
+
+    // Iterate through the array
+    for (int num : arr)
     {
-        prefixXor ^= arr[i];
+        prefixXor ^= num; // Update the current prefix XOR
 
-        // if subarray [0..i] itself has XOR = k
-        if (prefixXor == k)
-        {
-            count++;
-        }
+        // Find the XOR we need to match targetXor
+        int requiredPrefixXor = prefixXor ^ targetXor;
 
-        // check if there exists a prefix such that:
-        // prefixXor ^ thatPrefix = k  -> subarray with XOR = k
-        int need = prefixXor ^ k;
-        if (freq.find(need) != freq.end())
-        {
-            count += freq[need];
-        }
+        // Add the frequency of requiredPrefixXor to subarrayCount
+        subarrayCount += prefixXorFreq[requiredPrefixXor];
 
-        // store/update current prefixXor frequency
-        freq[prefixXor]++;
+        // Update the frequency map with the current prefix XOR
+        prefixXorFreq[prefixXor]++;
     }
-    return count;
+
+    return subarrayCount; 
 }
 
 int main()
 {
-    vector<vector<int>> testArrays = {
-        {4, 2, 2, 6, 4},
-        {5, 6, 7, 8, 9},
-        {1, 1, 1, 1}};
-    vector<int> ks = {6, 5, 0};
-    vector<long> expected = {4, 2, 4};
+    // Test cases to verify the function
+    vector<vector<int>> testArrays = {{4, 2, 2, 6, 4}, {5, 6, 7, 8, 9}, {1, 1, 1, 1}};
+    vector<int> targetXors = {6, 5, 0};
+    vector<long> expectedResults = {4, 2, 4};
 
     for (int t = 0; t < testArrays.size(); ++t)
     {
@@ -48,13 +41,14 @@ int main()
         cout << "Input: [ ";
         for (int x : testArrays[t])
             cout << x << " ";
-        cout << "], k = " << ks[t] << "\n";
+        cout << "], targetXor = " << targetXors[t] << "\n";
 
-        long result = countSubarraysWithXor(testArrays[t], ks[t]);
+        long result = countSubarraysWithXor(testArrays[t], targetXors[t]);
 
         cout << "Output:   " << result << "\n";
-        cout << "Expected: " << expected[t] << "\n";
+        cout << "Expected: " << expectedResults[t] << "\n";
         cout << "-------------------------\n";
     }
+
     return 0;
 }
