@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 
-    // Global array declaration: Can hold up to 10^6 elements
+    // Local array declaration: Can hold up to 10^6 elements
     // int n = 1000000; // Set the size of the array
     // int arr1[n]; // Local array declaration with 'n' elements
 
