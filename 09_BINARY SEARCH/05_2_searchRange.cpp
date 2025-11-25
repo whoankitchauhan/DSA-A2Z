@@ -1,49 +1,63 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int firstPos(vector<int> &arr, int target)
+int firstOccurrence(vector<int> &nums, int target)
 {
-    int low = 0, high = arr.size() - 1, ans = -1;
+    int low = 0, high = nums.size() - 1, ans = -1;
+
     while (low <= high)
     {
         int mid = low + (high - low) / 2;
 
-        if (arr[mid] == target)
+        if (nums[mid] == target)
         {
-            ans = mid;
+            ans = mid;      // potential answer
             high = mid - 1; // go LEFT
         }
-        else if (arr[mid] < target)
+        else if (nums[mid] < target)
+        {
             low = mid + 1;
+        }
         else
+        {
             high = mid - 1;
+        }
     }
     return ans;
 }
 
-int lastPos(vector<int> &arr, int target)
+int lastOccurrence(vector<int> &nums, int target)
 {
-    int low = 0, high = arr.size() - 1, ans = -1;
+    int low = 0, high = nums.size() - 1, ans = -1;
+
     while (low <= high)
     {
         int mid = low + (high - low) / 2;
 
-        if (arr[mid] == target)
+        if (nums[mid] == target)
         {
-            ans = mid;
+            ans = mid;     // potential answer
             low = mid + 1; // go RIGHT
         }
-        else if (arr[mid] < target)
+        else if (nums[mid] < target)
+        {
             low = mid + 1;
+        }
         else
+        {
             high = mid - 1;
+        }
     }
     return ans;
 }
 
-vector<int> searchRange(vector<int> &arr, int target)
+vector<int> searchRange(vector<int> &nums, int target)
 {
-    return {firstPos(arr, target), lastPos(arr, target)};
+    int first = firstOccurrence(nums, target);
+    if (first == -1)
+        return {-1, -1};
+    int last = lastOccurrence(nums, target);
+    return {first, last};
 }
 
 int main()
