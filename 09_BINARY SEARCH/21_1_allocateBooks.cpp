@@ -8,21 +8,15 @@ bool canAllocateBooks(vector<int> &books, int students, int maxPages)
 
     for (int pagesInBook : books)
     {
-        if (pagesInBook > maxPages)
-            return false;
-
         if (pagesAllocated + pagesInBook > maxPages)
         {
             studentsUsed++;
-            pagesAllocated = pagesInBook;
+            pagesAllocated = 0;
 
             if (studentsUsed > students)
                 return false;
         }
-        else
-        {
-            pagesAllocated += pagesInBook;
-        }
+        pagesAllocated += pagesInBook;
     }
     return true;
 }
