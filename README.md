@@ -43,4 +43,8 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
