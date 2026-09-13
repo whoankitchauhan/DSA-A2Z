@@ -55,6 +55,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -68,4 +69,8 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
