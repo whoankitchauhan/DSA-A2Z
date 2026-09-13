@@ -1,25 +1,29 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-        int hLen = haystack.length();
-        int nLen = needle.length();
-        int nIndex = 0;
-        for (int i = 0; i < hLen; i++) {
-            // as long as the characters are equal, increment needleIndex
-            if (haystack[i] == needle[nIndex]) {
-                nIndex++;
+        int haystackLength = haystack.length();
+        int needleLength = needle.length();
+        int needleIndex = 0;
+
+        for (int i = 0; i < haystackLength; i++) {
+
+            // If characters match, move to the next character of needle
+            if (haystack[i] == needle[needleIndex]) {
+                needleIndex++;
             } else {
-                // start from the next index of previous start index
-                i = i - nIndex;
-                // needle should start from index 0
-                nIndex = 0;
+                // Restart from the next possible starting position
+                i = i - needleIndex;
+
+                // Start matching needle again from index 0
+                needleIndex = 0;
             }
-            // check if needleIndex reached needle length
-            if (nIndex == nLen) {
-                // return the first index
-                return i - nLen + 1;
+
+            // Entire needle has been matched
+            if (needleIndex == needleLength) {
+                return i - needleLength + 1;
             }
         }
+
         return -1;
     }
 };
