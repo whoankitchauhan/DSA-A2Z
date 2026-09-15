@@ -52,10 +52,12 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0072-edit-distance) |
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -73,6 +75,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
 ## Math
 |  |
