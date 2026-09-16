@@ -54,6 +54,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0062-unique-paths](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0072-edit-distance) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Array
 |  |
 | ------- |
@@ -81,8 +82,14 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
