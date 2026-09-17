@@ -3,27 +3,18 @@ public:
     vector<vector<int>> cyclicShift(int n, vector<vector<int>>& grid,
                                     vector<int>& rowShift,
                                     vector<int>& colShift) {
-        vector<vector<int>> temp(n, vector<int>(n));
+        vector<vector<int>> result(n, vector<int>(n));
 
-        // Shift rows directly
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
 
+                // Position after row shift
                 int newCol = (j - rowShift[i] + n) % n;
 
-                temp[i][newCol] = grid[i][j];
-            }
-        }
+                // Position after column shift
+                int newRow = (i - colShift[newCol] + n) % n;
 
-        // Shift columns directly
-        vector<vector<int>> result(n, vector<int>(n));
-
-        for (int j = 0; j < n; j++) {
-            for (int i = 0; i < n; i++) {
-
-                int newRow = (i - colShift[j] + n) % n;
-
-                result[newRow][j] = temp[i][j];
+                result[newRow][newCol] = grid[i][j];
             }
         }
 
