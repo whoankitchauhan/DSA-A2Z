@@ -60,6 +60,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -102,6 +103,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
@@ -111,4 +113,8 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1401-circle-and-rectangle-overlapping) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
