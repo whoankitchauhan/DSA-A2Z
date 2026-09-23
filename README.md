@@ -64,12 +64,14 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -100,15 +102,18 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Geometry
 |  |
 | ------- |
