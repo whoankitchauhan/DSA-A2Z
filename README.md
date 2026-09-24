@@ -62,6 +62,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
+| [0739-daily-temperatures](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -124,4 +125,12 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
