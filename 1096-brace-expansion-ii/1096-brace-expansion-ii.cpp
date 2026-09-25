@@ -1,19 +1,20 @@
 class Solution {
 public:
-    set<string> parse(string& s, int& i) {
-        set<string> result;
-        set<string> current = {""};
+    unordered_set<string> parse(string& s, int& i) {
+
+        unordered_set<string> result;
+        unordered_set<string> current = {""};
 
         while (i < s.size() && s[i] != '}') {
 
             if (s[i] == '{') {
                 i++;
 
-                set<string> inside = parse(s, i);
+                unordered_set<string> inside = parse(s, i);
 
                 i++; // skip '}'
 
-                set<string> next;
+                unordered_set<string> next;
 
                 for (const string& a : current) {
                     for (const string& b : inside) {
@@ -35,9 +36,10 @@ public:
             }
 
             else {
+
                 char c = s[i];
 
-                set<string> next;
+                unordered_set<string> next;
 
                 for (const string& str : current) {
                     next.insert(str + c);
@@ -57,10 +59,15 @@ public:
     }
 
     vector<string> braceExpansionII(string expression) {
+
         int i = 0;
 
-        set<string> result = parse(expression, i);
+        unordered_set<string> result = parse(expression, i);
 
-        return vector<string>(result.begin(), result.end());
+        vector<string> answer(result.begin(), result.end());
+
+        sort(answer.begin(), answer.end());
+
+        return answer;
     }
 };
