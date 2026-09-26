@@ -1,7 +1,7 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        map<string, string> mp;
+        unordered_map<string, string> mp;
 
         for (auto& pair : knowledge) {
             mp[pair[0]] = pair[1];
@@ -10,6 +10,7 @@ public:
         string answer = "";
 
         for (int i = 0; i < s.size(); i++) {
+
             if (s[i] == '(') {
                 string key = "";
                 i++;
