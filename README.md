@@ -29,6 +29,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0072-edit-distance) |
 | [1096-brace-expansion-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -76,6 +78,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [1096-brace-expansion-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
