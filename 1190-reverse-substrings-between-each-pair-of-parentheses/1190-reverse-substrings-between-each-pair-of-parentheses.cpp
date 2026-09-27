@@ -3,39 +3,34 @@ public:
     string reverseParentheses(string s) {
         stack<char> st;
 
-        for (char ch : s) {
-            if (ch != ')') {
-                st.push(ch);
-                continue;
-            }
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] != ')') {
+                st.push(s[i]);
+            } else {
+                string word = "";
 
-            // Collect characters until the matching '('
-            string reversedPart;
+                while (st.top() != '(') {
+                    word += st.top();
+                    st.pop();
+                }
 
-            while (st.top() != '(') {
-                reversedPart += st.top();
-                st.pop();
-            }
+                st.pop(); // remove '('
 
-            // Remove '('
-            st.pop();
-
-            // Put the reversed characters back onto the stack
-            for (char c : reversedPart) {
-                st.push(c);
+                for (char c : word) {
+                    st.push(c);
+                }
             }
         }
 
-        // Build the final answer
-        string result;
+        string ans = "";
 
         while (!st.empty()) {
-            result += st.top();
+            ans += st.top();
             st.pop();
         }
 
-        reverse(result.begin(), result.end());
+        reverse(ans.begin(), ans.end());
 
-        return result;
+        return ans;
     }
 };
