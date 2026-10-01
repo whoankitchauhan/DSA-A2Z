@@ -144,6 +144,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0020-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -152,6 +153,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,4 +183,9 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
