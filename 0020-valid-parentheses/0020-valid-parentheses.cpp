@@ -1,22 +1,29 @@
 class Solution {
 public:
     bool isValid(string s) {
-        while (true) {
-            int oldSize = s.size();
+        stack<char> st;
 
-            for (int i = 0; i + 1 < s.size(); i++) {
-                string pair = s.substr(i, 2);
-
-                if (pair == "()" || pair == "[]" || pair == "{}") {
-                    s.erase(i, 2);
-                    break;
-                }
+        for (char c : s) {
+            if (c == '(' || c == '[' || c == '{') {
+                st.push(c);
             }
+            else {
+                if (st.empty())
+                    return false;
 
-            if (s.size() == oldSize)
-                break;
+                if (c == ')' && st.top() != '(')
+                    return false;
+
+                if (c == ']' && st.top() != '[')
+                    return false;
+
+                if (c == '}' && st.top() != '{')
+                    return false;
+
+                st.pop();
+            }
         }
 
-        return s.empty();
+        return st.empty();
     }
 };
