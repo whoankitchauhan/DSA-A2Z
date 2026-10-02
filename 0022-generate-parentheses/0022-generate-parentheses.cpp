@@ -1,30 +1,30 @@
 class Solution {
 public:
-    void backtrack(string& current, int open, int close,
+    void backtrack(string& sequence, int openRemaining, int closeRemaining,
                    vector<string>& result) {
-        if (open == 0 && close == 0) {
-            result.push_back(current);
+        if (openRemaining == 0 && closeRemaining == 0) {
+            result.push_back(sequence);
             return;
         }
 
-        if (open > 0) {
-            current.push_back('(');
-            backtrack(current, open - 1, close, result);
-            current.pop_back();
+        if (openRemaining > 0) {
+            sequence.push_back('(');
+            backtrack(sequence, openRemaining - 1, closeRemaining, result);
+            sequence.pop_back();
         }
 
-        if (close > open) {
-            current.push_back(')');
-            backtrack(current, open, close - 1, result);
-            current.pop_back();
+        if (closeRemaining > openRemaining) {
+            sequence.push_back(')');
+            backtrack(sequence, openRemaining, closeRemaining - 1, result);
+            sequence.pop_back();
         }
     }
 
     vector<string> generateParenthesis(int n) {
         vector<string> result;
-        string current;
+        string sequence;
 
-        backtrack(current, n, n, result);
+        backtrack(sequence, n, n, result);
 
         return result;
     }
