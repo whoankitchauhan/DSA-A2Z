@@ -29,6 +29,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0020-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0072-edit-distance) |
 | [1096-brace-expansion-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -59,6 +60,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0072-edit-distance) |
@@ -144,6 +146,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0901-online-stock-span) |
@@ -179,6 +182,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | ------- |
 | [0020-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
