@@ -31,6 +31,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0072-edit-distance) |
+| [0678-valid-parenthesis-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -64,6 +65,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0062-unique-paths](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0072-edit-distance) |
+| [0678-valid-parenthesis-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -148,6 +150,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0020-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
@@ -183,6 +186,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0020-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -196,4 +200,8 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
