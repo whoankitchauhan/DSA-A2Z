@@ -83,6 +83,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
 | [0739-daily-temperatures](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -128,6 +129,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | ------- |
 | [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
@@ -205,6 +207,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -273,6 +276,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -290,4 +294,8 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
