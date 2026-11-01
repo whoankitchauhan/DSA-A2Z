@@ -85,6 +85,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0739-daily-temperatures](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1254-number-of-closed-islands) |
@@ -147,6 +148,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | ------- |
 | [0062-unique-paths](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/whoankitchauhan/DSA-A2Z/tree/main/0089-gray-code/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
