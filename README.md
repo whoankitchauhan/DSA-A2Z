@@ -23,6 +23,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0739-daily-temperatures](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -178,6 +180,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0004-median-of-two-sorted-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -235,6 +238,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3727-maximum-alternating-sum-of-squares) |
