@@ -102,6 +102,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [1882-process-tasks-using-servers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1882-process-tasks-using-servers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -253,6 +254,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [1096-brace-expansion-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -295,6 +297,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3727-maximum-alternating-sum-of-squares) |
