@@ -1,15 +1,16 @@
 class Solution {
 public:
     bool checkString(string s) {
-        int flag = 0;
-        for (char a : s) {
-            if (a == 'a' && flag == 1) {
+        bool seenB = false;
+
+        for (char ch : s) {
+            if (ch == 'b') {
+                seenB = true;
+            } else if (seenB) {
                 return false;
             }
-            if (a == 'b') {
-                flag = 1;
-            }
         }
+
         return true;
     }
 };
