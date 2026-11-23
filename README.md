@@ -96,6 +96,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0835-image-overlap](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -169,6 +170,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [0089-gray-code](https://github.com/whoankitchauhan/DSA-A2Z/tree/main/0089-gray-code/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -187,6 +189,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
@@ -290,10 +293,12 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | ------- |
 | [0155-min-stack](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1352-product-of-the-last-k-numbers) |
 ## Greedy
 |  |
 | ------- |
