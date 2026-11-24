@@ -113,6 +113,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -150,6 +151,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
@@ -175,6 +177,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -206,6 +209,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Geometry
@@ -391,4 +395,8 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
