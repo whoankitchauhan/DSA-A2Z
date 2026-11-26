@@ -1,13 +1,15 @@
 class Solution {
 public:
     bool canAliceWin(int n) {
-        if (n < 10)
-            return false;
-        int turn = 0;
-        for (int i = 10; i <= n; i--) {
-            n = n - i;
-            turn = !turn;
+        int remove = 10;
+        int moves = 0;
+
+        while (n >= remove) {
+            n -= remove;
+            remove--;
+            moves++;
         }
-        return turn;
+
+        return moves % 2 == 1;
     }
 };
