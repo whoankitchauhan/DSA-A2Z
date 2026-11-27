@@ -157,6 +157,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0024-swap-nodes-in-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -434,6 +435,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0024-swap-nodes-in-pairs) |
 ## Merge Sort
 |  |
 | ------- |
