@@ -234,6 +234,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0023-merge-k-sorted-lists) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
@@ -333,6 +334,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0023-merge-k-sorted-lists) |
 | [1882-process-tasks-using-servers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -428,4 +430,16 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3934-smallest-unique-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
