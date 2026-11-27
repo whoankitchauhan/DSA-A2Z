@@ -28,6 +28,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -136,6 +137,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0012-integer-to-roman) |
 | [1096-brace-expansion-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -175,6 +177,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/whoankitchauhan/DSA-A2Z/tree/main/0089-gray-code/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0453-minimum-moves-to-equal-array-elements) |
