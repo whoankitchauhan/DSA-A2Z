@@ -22,6 +22,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
@@ -93,6 +94,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0016-3sum-closest) |
 | [0063-unique-paths-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0063-unique-paths-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -273,6 +275,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0016-3sum-closest) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/1385-find-the-distance-value-between-two-arrays) |
