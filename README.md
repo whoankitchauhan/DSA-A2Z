@@ -27,6 +27,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -71,6 +72,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0062-unique-paths) |
@@ -150,6 +152,7 @@ Whether you're a student preparing for exams, a job seeker readying for coding i
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/0010-regular-expression-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/whoankitchauhan/DSA-A2Z/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
